@@ -1,7 +1,3 @@
-Here’s a comprehensive README file for your project, including detailed sections for both the backend and the mobile app components:
-
----
-
 # EmpowerAI - AI-Powered Financial Mentor for Rural Women
 
 ## Overview
